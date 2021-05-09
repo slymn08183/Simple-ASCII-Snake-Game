@@ -249,6 +249,8 @@ class MainSnakeWindow:
         print("You will be main menu in 5 sec...")
         # Sleep
         sleep(5)
+        # Clear screen
+        clear()
         # Call the main menu
         main_menu()
         # Finally sets cursor to end of box to not bother while playing

@@ -301,8 +301,6 @@ class MainSnakeWindow:
 
 
 def main_menu():
-    # We start main with clearing console
-    clear()
     # Print some informatins
     print("\t\tWelcome to ASCII snake game.\n\n")
     print("Inorder to start the game you have to initiate main snake class.")
